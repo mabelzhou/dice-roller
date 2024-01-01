@@ -1,0 +1,22 @@
+canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+}
+
+h1 {
+    top: 0;
+    left: 0;
+    z-index: 1;
+    color: white !important;
+}
+
+table {
+    color: white !important;
+}
+
+table td {
+    min-width: 40px;
+    cursor: pointer;
+}
