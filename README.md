@@ -4,6 +4,7 @@ This project is a simple dice roller webpage created using Three.js for 3D rende
 ## Tools Used
 - Three.js
 - Cannon-es
+- Bootstrap
 
 ## Screenshots
 ![closeup](https://github.com/mabelzhou/dice-roller/assets/135676782/03658375-3555-4a7a-82ca-c7939c4c88df)
@@ -16,3 +17,10 @@ This project is a simple dice roller webpage created using Three.js for 3D rende
 2. Navigate to the project directory and install dependencies ```npm install```
 3. Run the app: ```npm run dev```
 4. Open the webpage in your browser: [http://localhost:5173/](http://localhost:5173/)
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+- The 10-sided die model was created by Andrew Aquino (https://aqandrew.com/blog/10-sided-die-react/)
+- The getPolyhedronShape function was written by Marco Fugaro (https://github.com/pmndrs/cannon-es/issues/103)
