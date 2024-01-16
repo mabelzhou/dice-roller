@@ -1,5 +1,5 @@
-export default {
-    build: {
-      base: '/dice-roller/'
-    }
-  }
+import { defineConfig } from 'vite'
+
+export default defineConfig({
+    base: '/dice-roller/'
+});
