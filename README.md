@@ -1,6 +1,8 @@
 # Dice Roller (WIP)  
 This project is a simple dice roller webpage created using Three.js for 3D rendering and Cannon-es for physics simulation. It allows users to add, remove and roll dice in the scene. 
 
+Live demo: https://mabelzhou.github.io/dice-roller/
+
 ## Tools Used
 - Three.js
 - Cannon-es
